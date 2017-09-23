@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Niveaux/Menu/Menu Principale.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Niveaux/Menu/Titre.unity
+    guid: 42e50a8ea2f07c14e85d47312dd5a988
+  - enabled: 0
+    path: 
+    guid: dcc27adee16a9e84ba32bfc1e138d554
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 1.unity
+    guid: cf6a494887167bf438e48259935fad32
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 3.unity
+    guid: cf8d220e949345749bdefc65dfc74cf4
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 4.unity
+    guid: 9955125692ae95c46b9e6b173f1f22ac
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 6.unity
+    guid: a5c5bb93588f98e479719929100ebd21
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 5.unity
+    guid: b7f48396b134dab4c8eb2e03215e3386
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 7.unity
+    guid: 30e463d3f5cba5f4b8ff426f875bc88b
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 8.unity
+    guid: 70095f4c25c1d494fab60a6ab04b75e1
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 9.unity
+    guid: f70241da6bea0bd4097b8f79c5d930c7
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 10.unity
+    guid: 304bda8394a1be449aeef72050896198
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 11.unity
+    guid: 55c280a9633feb44c8fff89ca778ce58
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 12.unity
+    guid: f295720e990cc4447a51300521aabb85
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 13.unity
+    guid: 8e13b7ad4112f9d49ab3e664684e29ae
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 2.unity
+    guid: bdf184aceb17c744fa4728057b05a94c
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 14.unity
+    guid: 4cac5359bd4fcaf41ba1f692f0a0adc5
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 15.unity
+    guid: b924723d64bd68b448d732a99ec61cee
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 16.unity
+    guid: ca44639ca2a01f74da78e0c41cecf209
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 20.unity
+    guid: 9573e3dac4729be4ab7faa941df96332
+  - enabled: 1
+    path: Assets/Niveaux/Menu/LevelSelect.unity
+    guid: a4d6baea022a0e64c9f22b8a07700ced
+  - enabled: 1
+    path: Assets/Niveaux/Menu/select2.unity
+    guid: 82edfcb2196dd5543837286e5b88f1c0
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 18.unity
+    guid: 9f63dba35f39fc241a62da49d0907cf8
+  - enabled: 1
+    path: Assets/Niveaux/Niveau 19.unity
+    guid: 3f97af6b776f9c94691a3fd8c3ee1027

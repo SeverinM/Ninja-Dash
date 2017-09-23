@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ennemy
+  - Wall
+  - Weapon
+  - Deflected
+  - Undashable
+  - Ball
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background6
+    uniqueID: 1680818049
+    locked: 0
+  - name: Background5
+    uniqueID: 167590853
+    locked: 0
+  - name: Background4
+    uniqueID: 1990135447
+    locked: 0
+  - name: Background3
+    uniqueID: 3614588269
+    locked: 0
+  - name: Background2
+    uniqueID: 185012215
+    locked: 0
+  - name: Background
+    uniqueID: 981005293
+    locked: 0
+  - name: Behind
+    uniqueID: 2256378431
+    locked: 0
+  - name: Just Behind
+    uniqueID: 4230417605
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 3320824007
+    locked: 0

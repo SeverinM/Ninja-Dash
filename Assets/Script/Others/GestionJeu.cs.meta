@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dc21190b61f80514e8da6f4495527e6e
+timeCreated: 1490519356
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - confirmQuit: {instanceID: 0}
+  - options: {instanceID: 0}
+  - pause: {instanceID: 0}
+  - dashBar: {instanceID: 0}
+  - fadeIn: {fileID: 1495162848066734, guid: d0c153839667a4943bc0113d59ce128f, type: 2}
+  - fadeOut: {instanceID: 0}
+  - endWindow: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
