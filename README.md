@@ -21,8 +21,6 @@ This is the first game where the primary purpose was to put it online , the fact
 ![Regular level](https://www.dropbox.com/s/j9tjmsbibwk4szy/gameplay1.png?dl=0&raw=true)
 [Gameplay video](https://www.youtube.com/watch?v=teUP5yQtTzs)
 
-### Menu
-
 
 ## Code description : 
 
