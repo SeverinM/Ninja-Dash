@@ -22,11 +22,6 @@ This is the first game where the primary purpose was to put it online , the fact
 [Gameplay video](https://www.youtube.com/watch?v=teUP5yQtTzs)
 
 
-## Code description : 
-
-    
-Feel free to contact me or pull requests. I'll also be happy to have advices or criticism.
-
 ## Contributors :
 
 I'm currently the only developer on this project. Pull requests highly appreciated. But perhaps most of you will have to wait for a proper english translation :-)
