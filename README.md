@@ -36,8 +36,3 @@ I'm currently the only developer on this project. Pull requests highly appreciat
 Severin michaut (severinmichaut@gmail.com)
 
 
-
-## License : 
-
-<img src="images/MIT-logo.png" width="200">
-
